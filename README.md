@@ -1,6 +1,8 @@
 # libuv-practice
 
-Code from An Introduction to libuv.pdf
+learn from An Introduction to libuv.pdf
+
+for src code, refer to: https://github.com/nikhilm/uvbook
 
 ## Libuv1.x
 
